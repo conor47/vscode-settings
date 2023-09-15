@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "editor.lineNumbers": "relative",
+    "editor.cursorBlinking": "smooth",
+    "rust-analyzer.hover.actions.references.enable": true,
+    "git.openRepositoryInParentFolders": "never",
+    "vim.handleKeys": {
+        "<C-p>": false
+    }
+}

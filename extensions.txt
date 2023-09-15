@@ -1,0 +1,15 @@
+Catppuccin.catppuccin-vsc
+jdinhlife.gruvbox
+ms-azuretools.vscode-docker
+ms-vscode-remote.remote-containers
+redhat.java
+rust-lang.rust-analyzer
+VisualStudioExptTeam.intellicode-api-usage-examples
+VisualStudioExptTeam.vscodeintellicode
+vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-maven
+vscodevim.vim
+zhuangtongfa.material-theme
